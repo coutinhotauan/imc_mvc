@@ -1,5 +1,3 @@
-# Exemplo 06
-
 Aplicação web com MVC.
 
 Para executar o projeto.
